@@ -1,6 +1,6 @@
 /* Estilização para o cabeçalho (header) */
 header {
-background-color: #f878f2;
+background-color: #9381fa;
 padding: 10px;
 text-align: center;
 margin: 0%;
@@ -20,7 +20,7 @@ color: #333;
 
 /* Estilização para o body (cor de fundo ) */
 body {
-background-color: rgb(113, 245, 245);
+background-color: rgb(168, 184, 253);
 }
 
 /* Estilização para o corpo principal (main) */
